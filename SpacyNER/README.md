@@ -1,3 +1,0 @@
-# This custom NER using Spacy model
-
-In Progress...
